@@ -1,4 +1,4 @@
-# FastAPI & SQLAlchemy: MySQL Setup Project with Clean Architecture
+## FastAPI & SQLAlchemy: MySQL Setup Project with Clean Architecture
 
 ### ขั้นตอนเริ่มต้นสำหรับผู้ที่ยังไม่ได้ติดตั้ง `virtualenv` ในระบบ  
 
