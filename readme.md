@@ -3,8 +3,8 @@
 ### ขั้นตอนเริ่มต้นสำหรับผู้ที่ยังไม่ได้ติดตั้ง `virtualenv` ในระบบ  
 
 ```bash
-$ python -m pip install virtualenv  # ติดตั้ง virtual environment
-$ python -m venv env  # สร้าง virtual environment ชื่อ "env"
+$ python -m pip install virtualenv 
+$ python -m venv env 
 ```
 
 ### การเปิดใช้งาน Virtual Environment
@@ -12,13 +12,13 @@ $ python -m venv env  # สร้าง virtual environment ชื่อ "env"
 #### บน Linux และ macOS
 
 ```bash
-source env/bin/activate  # เปิดใช้งาน virtual environment
+source env/bin/activate  
 ```
 
 ## บน Windows
 
 ```bash
-.\env\Scripts\activate  # เปิดใช้งาน virtual environment
+.\env\Scripts\activate 
 ```
 
 
